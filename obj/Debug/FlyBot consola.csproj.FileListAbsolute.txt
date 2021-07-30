@@ -1,0 +1,7 @@
+E:\Trabajos de visual\FlyBot consola\obj\Debug\FlyBot consola.csproj.AssemblyReference.cache
+E:\Trabajos de visual\FlyBot consola\obj\Debug\FlyBot consola.csproj.CoreCompileInputs.cache
+E:\Trabajos de visual\FlyBot consola\bin\Debug\FlyBot consola.exe.config
+E:\Trabajos de visual\FlyBot consola\bin\Debug\FlyBot consola.exe
+E:\Trabajos de visual\FlyBot consola\bin\Debug\FlyBot consola.pdb
+E:\Trabajos de visual\FlyBot consola\obj\Debug\FlyBot consola.exe
+E:\Trabajos de visual\FlyBot consola\obj\Debug\FlyBot consola.pdb
